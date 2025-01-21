@@ -85,7 +85,8 @@ Now you can simply run `ollama` in your terminal directly!
 - You can customize steps to your needs, removing or adding steps as needed.
 
 
-# Alternatively, use _proot-distro_  
+# Alternatively,  
+# use _proot-distro_  
 You can alternatively install proot-distro and use that to install ollama on Termux using the official Ollama Install Script  
 
 ```bash
